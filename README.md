@@ -32,7 +32,7 @@ You will find three CSV files in the `/` directory:
 This project is configured to use **Databricks**.
 
 ### Prerequisites
-*   Access to Build Circles Free edition databricks cluster.
+*   Access to Build Circles Free edition databricks cluster. Sign in with the databricks@buildcircle.co.uk email address, your interview buddy can provide the access code.
 
 ### Setup
 1.  Navigate to (`Workspace/databricks-kata`) directory.
