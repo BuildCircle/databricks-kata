@@ -35,7 +35,7 @@ This project is configured to use **Databricks**.
 *   Access to Build Circles Free edition databricks cluster.
 
 ### Setup
-1.  Navigate to the databricks-kata workspace.
+1.  Navigate to (`Workspace/databricks-kata`) workspace.
 2.  Inspect the raw datasets and the notebook.
 3.  Run the notebook to import the sample data into a catalouge.
 
