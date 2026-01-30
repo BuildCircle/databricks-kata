@@ -3,7 +3,7 @@
 Welcome to the StreamFlix technical assessment!
 
 ## Scenario
-**StreamFlix** is a fictional video streaming service. We are looking to better understand our Monthly Recurring Revenue (MRR) and Churn rates. You have been given a raw dbt project and access to our raw data dumps.
+**StreamFlix** is a fictional video streaming service. We are looking to better understand our Monthly Recurring Revenue (MRR) and Churn rates. You have been given a raw databricks workspace  and access to our raw data dumps.
 
 ## The Data
 You will find three CSV files in the `/` directory:
